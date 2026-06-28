@@ -79,8 +79,8 @@ Currently, I'm expanding my expertise toward AI Engineering by learning Python, 
 ## 📫 Connect with Me
 
 * GitHub: https://github.com/fahimi-eng
-* LinkedIn: *(Coming Soon)*
-* Portfolio: *(Coming Soon)*
+* LinkedIn: https://www.linkedin.com/in/fahimieng/
+* Portfolio: https://mrfahimi.com
 
 ---
 
