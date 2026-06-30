@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/fahimi-eng.png" width="180" style="border-radius:50%">
+<img src="https://github.com/banner.png" width="100%">
 </p>
 # Hi there 👋 I'm Alireza Fahimi
 
