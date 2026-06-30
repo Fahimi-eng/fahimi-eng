@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/banner.png" width="100%">
+<img src="./banner.png" width="100%">
 </p>
 # Hi there 👋 I'm Alireza Fahimi
 
